@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -213,7 +213,7 @@ GameObject:
   - component: {fileID: 159052711}
   - component: {fileID: 159052710}
   m_Layer: 1
-  m_Name: SprScreenBackground
+  m_Name: ObjScreenBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 419706002}
   - component: {fileID: 419706001}
   m_Layer: 2
-  m_Name: SprBackgroundFloor
+  m_Name: ObjBackgroundFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -375,7 +375,7 @@ GameObject:
   - component: {fileID: 687006464}
   - component: {fileID: 687006463}
   m_Layer: 2
-  m_Name: SprBackgroundWall
+  m_Name: ObjBackgroundWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -548,7 +548,7 @@ GameObject:
   - component: {fileID: 837803736}
   - component: {fileID: 837803735}
   m_Layer: 2
-  m_Name: SprDesktopTop
+  m_Name: ObjDesktopTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -629,7 +629,7 @@ GameObject:
   - component: {fileID: 937650925}
   - component: {fileID: 937650924}
   m_Layer: 2
-  m_Name: "SprCaf\xE9"
+  m_Name: "ObjCaf\xE9"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 1225915600}
   - component: {fileID: 1225915599}
   m_Layer: 4
-  m_Name: SprSeparator
+  m_Name: ObjSeparator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -874,7 +874,7 @@ GameObject:
   - component: {fileID: 1623972796}
   - component: {fileID: 1623972795}
   m_Layer: 8
-  m_Name: SprRouter
+  m_Name: ObjRouter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -955,7 +955,7 @@ GameObject:
   - component: {fileID: 1696846652}
   - component: {fileID: 1696846651}
   m_Layer: 1
-  m_Name: SprPCScreen
+  m_Name: ObjPCScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1036,7 +1036,7 @@ GameObject:
   - component: {fileID: 1826191355}
   - component: {fileID: 1826191354}
   m_Layer: 2
-  m_Name: SprDesktopBottom
+  m_Name: ObjDesktopBottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
